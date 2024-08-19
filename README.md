@@ -1,2 +1,3 @@
 # fantasy-cricket-pyqt-gui
 Python GUI Based Fantasy Cricket Application
+A Sample SQlite Database file is included with main.py...
